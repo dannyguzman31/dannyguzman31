@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Guzman
-- 👀 I’m interested in Web Development & Software Engineering
-- 🌱 I’m currently learning JavaScript and some of its frameworks such as ReactJs, Node.Js. I'm also learning Django and Python.
+- 👀 I’m interested in Web & Software Development.
+- 🌱 I’m currently working on improving my skills in Java and SQL. I am also interested in learning Python more deeply to be able to get a Master's Degree in Ai. 
 - 💞️ I’m looking to collaborate on some personal websites and projects to extend my knowledge and skills. 
 - 📫 How to reach me: Email: guzdeveloper1@gmail.com
 - 
